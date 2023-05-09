@@ -40,5 +40,5 @@ int main() {
     cout << "Cargo: " << f.cargo << endl;
     cout << "Salario: " << f.salario << endl;
 
-    return 0;
+    return false;
 }
